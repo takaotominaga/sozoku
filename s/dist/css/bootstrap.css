@@ -93,9 +93,13 @@ figure {
   margin: 1em 40px;
 }
 hr {
-  height: 0;
-  -moz-box-sizing: content-box;
-       box-sizing: content-box;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border:none;
+    border-top:solid 5px #FF820F;
+    height:2px;
+    color:#FFFFFF;
+    margin: 0 6 0 6;
 }
 pre {
   overflow: auto;
@@ -334,12 +338,7 @@ img {
 .img-circle {
   border-radius: 50%;
 }
-hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 0;
-  border-top: 1px solid #eee;
-}
+
 .sr-only {
   position: absolute;
   width: 1px;
