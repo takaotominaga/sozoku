@@ -31,9 +31,17 @@
 
 <!-- Favicons -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-                               <link rel="shortcut icon" href="../assets/ico/favicon.ico">
+<link rel="shortcut icon" href="../assets/ico/favicon.ico">
 
-
+<style type="text/css">
+.cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+    height: 18px;
+    margin-top: 2px;
+    min-width: 13px;
+    padding: 6px 27px;
+    width: 13px;
+}
+</style>
   </head>
   <body>
     <a class="sr-only" href="#content">Skip to main content</a>
@@ -71,8 +79,6 @@
     </nav>
   </div>
 </header>
-
-
   <!-- Docs page layout -->
   <div class="bs-docs-header" id="content"></div>
   
@@ -82,6 +88,24 @@
     <div class="col-md-9" role="main">
       <!-- Alerts ================================================== -->
       <div class="bs-docs-section">
+<div class="row">
+  <form id="cse-search-box" action="http://google.com/cse">
+  <div class="col-lg-6">
+    <div class="input-group">
+     <input type="hidden" name="cx" value="013724962672639237708:uapsv3pm3zs" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <input type="text" name="q"  placeholder="キーワードを入力" class="form-control">
+      <span class="input-group-btn">
+        <input type="button" class="btn btn-warning btn-" name="sa" type="button" value="サイト内検索"></input>
+      </span>
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+  <script type="text/javascript" 
+　src="http://www.google.com/coop/cse/brand?form=cse-search-boxamp;lang=ja"></script>
+  </form>
+</div><!-- /.row -->
+
+
 
 <div class="panel panel-primary">
 <div class="panel-heading">&nbsp;<span class="glyphicon glyphicon-home"></span>&nbsp;&nbsp;相続登記</div>
