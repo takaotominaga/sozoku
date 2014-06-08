@@ -568,9 +568,13 @@ a.bg-danger:hover {
 }
 ul,
 ol {
-  margin-top: 0;
+  margin-top: 10px;
   margin-bottom: 10px;
+  padding-left: 15px;
 }
+li {
+  padding-bottom:5px;
+  }
 ul ul,
 ol ul,
 ul ol,
