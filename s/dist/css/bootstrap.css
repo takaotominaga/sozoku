@@ -3450,7 +3450,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: -1px;
   margin-top: -1px;
   padding-top:7px;
-  padding-bottom:7px;
+  padding-bottom:6px;
 }
 .nav {
   padding-left: 0;
