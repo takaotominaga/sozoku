@@ -5797,5 +5797,10 @@ button.close {
     display: none !important;
   }
 }
-
+.img-mergin5 {
+  margin:5px 0px;
+}
+.img-mergin7 {
+  margin:7px 0px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
