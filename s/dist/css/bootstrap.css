@@ -5805,7 +5805,12 @@ button.close {
 .font-size16 {
   font-size:16px;
 }
-
+.img-mergin-top5 {
+  margin-top:5px;
+}
+.img-mergin-bottom5 {
+  margin-bottom:5px;
+}
 .img-mergin5 {
   margin:5px 0px;
 }
