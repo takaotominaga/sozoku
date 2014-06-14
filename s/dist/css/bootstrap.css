@@ -5798,6 +5798,10 @@ button.close {
     display: none !important;
   }
 }
+.font-size16 {
+  font-size:16px;
+}
+
 .img-mergin5 {
   margin:5px 0px;
 }
