@@ -4775,7 +4775,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel {
   margin-top: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   background-color: #fff;
   border: 1px solid transparent;
   border-radius: 4px;
