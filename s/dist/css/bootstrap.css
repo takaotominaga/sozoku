@@ -449,6 +449,11 @@ h2,
   font-size: 28px;
   font-weight: normal;
 }
+h2,
+.h2-26 {
+  font-size: 26px;
+  font-weight: normal;
+}
 h3,
 .h3 {
   font-size: 24px;
