@@ -5841,4 +5841,28 @@ button.close {
   line-height:20px;
   font-size:13px;
 }
+.margin-bottom5{
+  margin-bottom:5px;
+}
+.margin-bottom10{
+  margin-bottom:10px;
+}
+.margin-top5{
+  margin-top:5px;
+}
+.margin-top10{
+  margin-top:10px;
+}
+.bg-price-btn{
+    background-color: #D9EDF7;
+    border-color: #BCE8F1;
+    color: #31708F;
+}
+.price-btn-arrow{
+  background-color:#31708F;
+}
+.price-btn-link-font{
+  color:#31708F;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
