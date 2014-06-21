@@ -2217,8 +2217,8 @@ fieldset[disabled] .btn-info.active {
 }
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236;
+  background-color: #F0AD4E;
+  border-color: #EEA236;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -4989,13 +4989,24 @@ a.list-group-item-danger.active:focus {
 .panel-default > .panel-footer + .panel-collapse .panel-body {
   border-bottom-color: #ddd;
 }
+.panel-top {
+  border-color: #fff;
+}
+.panel-top > .panel-heading {
+  color: #FF820F;
+  font-weight: bold;
+  background-color: #fff;
+  border-bottom-color: #F0AD4E;
+  border-bottom: 3px dotted #F0AD4E;
+}
+
 .panel-primary {
-  border-color: #428bca;
+  border-color: #F0AD4E;
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #428bca;
-  border-color: #428bca;
+  background-color: #F0AD4E;
+  border-color: #F0AD4E;
 }
 .panel-primary > .panel-heading + .panel-collapse .panel-body {
   border-top-color: #428bca;
